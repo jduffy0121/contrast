@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Jacob Duffy"
+author: "Jacob Duffy"
+description: "© 2024 Jacob Duffy. All rights reserved.<br>Github page theme: <a href=https://github.com/niklasbuschmann/contrast>contrast</a><br>Last updated: 8/25"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,12 +17,14 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "about.markdown"}
+  - {file: "research.markdown"}
+  - {file: "cv.markdown"}
+  - {file: "contact.markdown"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:jod0007@auburn.edu"}
+  - {title: Github, icon: github, url: "https://github.com/jduffy0121"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
